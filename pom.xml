@@ -19,7 +19,8 @@
 	</parent>
 
   <scm>
-    <developerConnection>scm:git:ssh://github.com/louisthomas/demo-release-workflow</developerConnection>
+    <connection>scm:git:git://github.com/louisthomas/demo-release-workflow.git</connection>
+    <developerConnection>scm:git:git@github.com:louisthomas/demo-release-workflow.git</developerConnection>
     <url>https://github.com/louisthomas/demo-release-workflow</url>
   </scm>
 
